@@ -17,5 +17,6 @@
 
 export { GoogleAIFileManager } from "./file-manager";
 export { GoogleAICacheManager } from "./cache-manager";
+export { ExtendedFileManager } from "./file-manager-ex";
 
 export * from "../../types/server";
