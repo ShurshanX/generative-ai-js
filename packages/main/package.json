@@ -39,12 +39,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/google/generative-ai-js.git"
+    "url": "git+https://github.com/ShurshanX/generative-ai-js.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/google/generative-ai-js/issues"
+    "url": "https://github.com/ShurshanX/generative-ai-js/issues"
   },
-  "homepage": "https://github.com/google/generative-ai-js#readme"
+  "homepage": "https://github.com/ShurshanX/generative-ai-js#readme"
 }
