@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "typings": "dist/generative-ai.d.ts",
+  "private": false,
   "exports": {
     ".": {
       "types": "./dist/generative-ai.d.ts",
