@@ -10,6 +10,9 @@ import {
   GoogleGenerativeAIRequestInputError,
 } from "../errors";
 
+/**
+ * @public
+ */
 export class ExtendedFileManager {
     constructor(
       public apiKey: string,

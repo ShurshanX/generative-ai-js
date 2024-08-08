@@ -301,10 +301,6 @@
   dependencies:
     "@types/chai" "^4.2.12"
 
-"@google/generative-ai@file:D:\\ds\\出海\\generative-ai-js\\packages\\main":
-  version "0.14.1"
-  resolved "file:packages/main"
-
 "@hapi/bourne@^3.0.0":
   version "3.0.0"
   resolved "https://registry.npmjs.org/@hapi/bourne/-/bourne-3.0.0.tgz"
@@ -969,6 +965,10 @@
     "@types/argparse" "1.0.38"
     argparse "~1.0.9"
     string-argv "~0.3.1"
+
+"@shurshan/generative-ai@file:D:\\ds\\出海\\generative-ai-js\\packages\\main":
+  version "0.16.0"
+  resolved "file:packages/main"
 
 "@sigstore/bundle@^2.3.2":
   version "2.3.2"
@@ -4889,7 +4889,7 @@ koa@^2.13.0:
     type-is "^1.6.16"
     vary "^1.1.2"
 
-lerna@^8.1.5:
+lerna@7.4.1:
   version "8.1.5"
   resolved "https://registry.npmjs.org/lerna/-/lerna-8.1.5.tgz"
   integrity sha512-/eigpa/JTfKl9RP9QHK9Tifeog+dymYICqBoZlR4fjp94ol2Q6adYQHy8dWRkv0VPrHh/Xuy5VlmPaGvIoGeDw==
