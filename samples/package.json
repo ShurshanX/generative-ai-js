@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "*"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "check-samples": "node ./utils/check-samples.js",
+    "import-comments": "node ./utils/insert-import-comments.js",
+    "test": "npm run check-samples"
+  }
+}
